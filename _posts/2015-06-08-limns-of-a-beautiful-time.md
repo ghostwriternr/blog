@@ -48,7 +48,7 @@ Ribbons of light kissed the horizon at dawn.
 Elisa took him home through the nutmeg brown palisade,  
 And then slept all day from the first sight of the coloured lawn.
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/limns-1.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/limns-1.jpg)
 
 Rays of the afternoon sun adorned the otherwise plain walls,  
 Casting shadows long, across the room lit in a golden hue.  
@@ -80,7 +80,7 @@ Places not confined to the bounds of human imagination.
 And daughter of a British Marquess, added to the rusty bandit,  
 A touch of flair. A favourite subject for her portraits, elegant and fun.
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/limns-2.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/limns-2.jpg)
 
 As the spring wind swept Bloodgood maple leaves,  
 Through crannies and crevices, and onto Ron,  
@@ -122,7 +122,7 @@ They rose together from life’s doomy vertigo, set alight.
 Their love spread like a wildfire, Aphrodite flutters.  
 Over the world they bestrew, the melting flux of ardour infinite.
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/limns-3.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/limns-3.jpg)
 
 A fairy tale from start to finish, their story an illustration  
 To the world, quite exemplary. The smell of a river,  
@@ -144,7 +144,7 @@ Wondering where the waters dragged her gallant knight.
 She yearned to see his coy smile suffused with his vows,  
 The divers possibilities kindling her solemn fright.
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/limns-4.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/limns-4.jpg)
 
 In a land asunder, the dark clouds ravening,  
 Stood Ron, not a skerry in sight.  
@@ -166,7 +166,7 @@ Came in sight of the once pretty shack called home.
 An arduous hour of searching, but nowhere to be found was she.  
 Intractable tears now trickling, he smeared his face with loam.
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/limns-5.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/limns-5.jpg)
 
 In a distant clearing in ruins, lay deracinated trees  
 Sabotaged by vicious agents of nature,  
