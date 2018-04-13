@@ -38,25 +38,25 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : "master"
-  commitMessage          : "New comment."
-  filename               : "comment-{@timestamp}"
-  format                 : "yml"
-  moderation             : true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ['name', 'email', 'message']
+  commitMessage          : # "New comment."
+  filename               : # "comment-{@timestamp}"
+  format                 : # "yml"
+  moderation             : # true
+  path                   : # # "/_data/comments/{options.slug}" (default)
+  requiredFields         : # ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : # "md5"
   generatedFields:
     date:
-      type               : "date"
+      type               : # "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : # "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  enabled                : true
-  siteKey                : "6LcHz1IUAAAAAMbn2w64KMwx99M8a_7j70ZVX13l"
-  secret                 : "UNlsNu6HcckqUYSuSmTzn7xhRhFLldCBqSNx6PQvqF2S3WRgNi6CUAbSoRROqfTt2xfnp1bcmItE1U8W6pifU8XaLhzJyHZOY/A+ZlKVYzNZkplsjgY3B6+WoOanKpWnddbwL8oXWlR/zTAWt69LD9k94HCndZa25Gl84/yDLHw="
+  enabled                : # true
+  siteKey                : # "6LcHz1IUAAAAAMbn2w64KMwx99M8a_7j70ZVX13l"
+  secret                 : # "UNlsNu6HcckqUYSuSmTzn7xhRhFLldCBqSNx6PQvqF2S3WRgNi6CUAbSoRROqfTt2xfnp1bcmItE1U8W6pifU8XaLhzJyHZOY/A+ZlKVYzNZkplsjgY3B6+WoOanKpWnddbwL8oXWlR/zTAWt69LD9k94HCndZa25Gl84/yDLHw="
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
