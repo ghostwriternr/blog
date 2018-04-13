@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -44,7 +44,7 @@ staticman:
   filename               : "comment-{@timestamp}"
   format                 : "yml"
   moderation             : false
-  path                   : # "/_data/comments/{options.slug}" (default)
+  path                   : "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -55,8 +55,8 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
   enabled                : true
-  siteKey                : "Rv9OzRYtmAcNEK8L105SUb2JcXT+rNoLrnnPDn/uXgqGlr+A1vrpApovfa23HPfTYbQfzx5X38tj7FER93gqkrPTqJxvghNOZuI2FnsR37eVXFLM8WcnukegaujAABeqzoIHYm9vg67wsyjmbvtFmRydqqQadjRMPs5kA6KyzcE="
-  secret                 : "ZGgLIJ7b2zvomVx28o0Tg2MnmxVB7CJXbFxUsh8G5LtxWE3W7ceqhgV60/3mZxsGR3moOhV2unhX67NR2r5Dq+Eo6KBCinQ9xSRqQxZd2aH+fHkLagK3l0L7R91MSZfRBzOMvsMK1C7TFdAm6g5/Es3IyEvHRouJcS0VUqGSVJE="
+  siteKey                : "6LcHz1IUAAAAAMbn2w64KMwx99M8a_7j70ZVX13l"
+  secret                 : "UNlsNu6HcckqUYSuSmTzn7xhRhFLldCBqSNx6PQvqF2S3WRgNi6CUAbSoRROqfTt2xfnp1bcmItE1U8W6pifU8XaLhzJyHZOY/A+ZlKVYzNZkplsjgY3B6+WoOanKpWnddbwL8oXWlR/zTAWt69LD9k94HCndZa25Gl84/yDLHw="
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
@@ -269,6 +269,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
