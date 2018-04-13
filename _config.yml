@@ -238,17 +238,23 @@ category_archive:
 tag_archive:
   type: jekyll-archives
   path: /tags/
+year_archive:
+  type: jekyll-archives
+  path: /archive/
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
+    - year
     - categories
     - tags
   layouts:
     category: archive-taxonomy
     tag: archive-taxonomy
+    year: archive
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
+    year: /archive/:year/
 
 
 # HTML Compression
