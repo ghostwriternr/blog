@@ -278,3 +278,6 @@ defaults:
       comments: true
       share: true
       related: true
+      header:
+        teaser: /assets/images/dlanham-Cardinal.jpg
+
