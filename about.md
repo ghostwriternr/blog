@@ -3,8 +3,6 @@ layout: single
 title: About
 ---
 
-{% include base_path %}
-
 Hi.  
 
 I am Naresh, and this is my personal blog. I enjoy writing, programming and listening to music.
